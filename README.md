@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <iframe src="https://giphy.com/embed/qpL2YVT6kXtXLK8Ul0" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-qpL2YVT6kXtXLK8Ul0">via GIPHY</a></p>
 
 <!--
 **ariahogan/ariahogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
