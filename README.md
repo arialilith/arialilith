@@ -2,6 +2,7 @@
   
 - 💻 Full time Compter Science Student
 - 🏫 Wentworth Institute of Technology Boston, MA. 2020-2024
+- [School Github](https://github.com/sandersona2)
 
 ### Where to reach me
 [LinkedIn](https://www.linkedin.com/in/aria-lilith/)
