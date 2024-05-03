@@ -14,4 +14,4 @@ Hi there! I'm Aria. I love exploring new technologies and applying them to creat
 
 ### Contact
 
-🔗 LinkedIn: [linkedin.com/in/arialilith](https://www.linkedin.com/in/arialilith)  
+🔗 LinkedIn: [linkedin.com/in/arial-ilith](https://www.linkedin.com/in/aria-lilith)  
