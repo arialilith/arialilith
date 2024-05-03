@@ -7,10 +7,9 @@
 Hi there! I'm Aria. I love learning about new technologies and I have an intrest in computer networking. I love plants and building terrariums and I love learning new skills to better my life.
 
 ### Education
-
-- **Bachelor of Science in Computer Science**
-  - Wentworth Institute of Technology, Boston, MA
-  - Expected Graduation: August 2024
+**Wentworth Institute of Technology, Boston, MA** | Expected Graduation: August 2024
+  - Bachelors in Computer Science
+  - Minor in Applied Mathematics
 
 ### Contact
 
