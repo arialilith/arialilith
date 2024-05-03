@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hi there! I'm Aria. I love learning about new technologies and I have an intrest in computer networking. I also love plants and building terrariums and I love learning new skills as well!
+Hi there! I'm Aria. I love learning about new technologies and I have an intrest in computer networking. I love plants and building terrariums and I love learning new skills to better my life.
 
 ### Education
 
