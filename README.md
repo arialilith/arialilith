@@ -1,7 +1,9 @@
 <p align=center>
   <img src="resources\ariasanderson.png" alt="Aria Sanderson"/>
 </p>
-🌍 Boston, MA
+<p align=center>
+  <img src="resources\bostonma.png" alt="Boston, MA. USA"/>
+</p>
 
 ### About Me
 Hi there! I'm Aria. I love learning about new technologies and I have an intrest in computer networking. I code silly little projects. I love plants and building terrariums and I love learning new skills to better my life.
