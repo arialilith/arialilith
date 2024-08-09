@@ -1,6 +1,6 @@
-<p align=center>
+<h1 align=center>
   <img src="resources\ariasanderson.png" alt="Aria Sanderson"/>
-</p>
+</h1>
 🌍 Boston, MA
 
 ### About Me
