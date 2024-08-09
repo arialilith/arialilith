@@ -2,10 +2,10 @@
   <a href="https://github.com/arialilith"><img src="resources\ariasanderson.png" alt="Aria Sanderson"/></a>
 </h1>
 <p align=center>
-  <a href="https://www.linkedin.com/in/aria-lilith"><img src="resources\bostonma.png" alt="Boston, MA. USA"/></a>
+  <img src="resources\bostonma.png" alt="Boston, MA. USA"/>
 </p>
 <p align=center>
-  <img width="32px" src="resources\linkedin.png" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/aria-lilith"><img width="32px" src="resources\linkedin.png" alt="linkedin"/></a>
 </p>
 
 ### About Me
