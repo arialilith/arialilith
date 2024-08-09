@@ -1,4 +1,4 @@
-# Aria Sanderson
+<h1 align=center>Aria Sanderson</h1>
 🌍 Boston, MA
 
 ### About Me
