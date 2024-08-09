@@ -1,4 +1,6 @@
-<h1 align=center>Aria Sanderson</h1>
+<p align=center>
+  <img src="resources\ariasanderson.png" alt="Aria Sanderson"/>
+</p>
 🌍 Boston, MA
 
 ### About Me
