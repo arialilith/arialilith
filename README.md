@@ -14,8 +14,3 @@ Hi there! I'm Aria. I love learning about new technologies and I have an intrest
 ### Projects
 - [Aria's MBTA Review](https://arialilith.github.io/arias-mbta-review/)
 - [DVD Cat-alouguer](https://github.com/hexcatprime/capstone/tree/main)
-
-### Education
-**Wentworth Institute of Technology, Boston, MA**
-  - Bachelors in Computer Science
-  - Minor in Applied Mathematics
